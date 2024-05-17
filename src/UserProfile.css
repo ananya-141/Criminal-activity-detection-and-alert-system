@@ -1,0 +1,44 @@
+/* UserProfile.css */
+
+.userProfile {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .status {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .alertButton {
+    text-align: center;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .alertButton:hover {
+    text-align: center;
+    background-color: #ff6347; /* Light coral */
+    border-color: #ff6347; /* Light coral */
+  }
+  
+  .alert {
+    text-align: center;
+    color: red;
+  }
+  h2 {
+    font-size: 45px;
+    font-weight: bold;
+    color: black;
+
+  }
+  h3 {
+    font-size: 30px;
+    font-weight: bold;
+    
+
+  }
