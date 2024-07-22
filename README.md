@@ -99,14 +99,14 @@ Copy code
 
 ## Introduction
 
-Welcome to the **Clothes Try-On Game**! This project was developed for the Myntra hackathon. It allows users to try on the latest trending clothes virtually and earn points that can be redeemed for shopping on the platform. The game integrates famous characters into the game mechanics to drive engagement among younger audiences.
+Welcome to the **Criminal activity detection and alert system**! This project was developed to be able to detect knives using a machine learning model and sending an alert
 
 ## Features
 
-- Virtual try-on of trending clothes
-- Points system for rewards
-- Integration with famous characters
-- User-friendly interface
+- Real-Time Monitoring
+- ML-Powered Detection
+- Integration with Existing Systems
+- Sign in system for users
 
 ## Screenshots
 
