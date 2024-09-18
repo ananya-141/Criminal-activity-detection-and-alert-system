@@ -95,7 +95,7 @@ If your project is, for instance, a clothes try-on game for a hackathon, the REA
 
 markdown
 Copy code
-# Clothes Try-On Game
+# Criminal Activity Detection and Alert System
 
 ## Introduction
 
